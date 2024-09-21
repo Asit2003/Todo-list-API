@@ -1,4 +1,4 @@
-# FastAPI Todo List API
+# Todo List FASTAPI
 
 This project is a simple Todo List API built with FastAPI that allows users to perform CRUD operations on todo items.
 
